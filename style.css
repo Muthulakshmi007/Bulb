@@ -1,0 +1,30 @@
+body{
+    background-color:blanchedalmond;
+}
+
+h1{
+    text-align:center;
+}
+
+img{
+    margin-left:40%;
+    margin-bottom:30px;
+    border:2px solid black;
+}
+
+#on{
+    width:100px;
+    height:40px;
+    margin-left:475px;
+    font-size:larger;
+    background-color:white;
+}
+
+#off{
+    width:100px;
+    height:40px;
+    margin-left:170px;
+    font-size:larger;
+    background-color:black;
+    color:white;
+}
